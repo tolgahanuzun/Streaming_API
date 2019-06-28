@@ -1,0 +1,4 @@
+aiohttp==3.5.4
+aiopg==0.16.0
+aiohttp-jwt==0.4.0
+SQLAlchemy==1.3.5
